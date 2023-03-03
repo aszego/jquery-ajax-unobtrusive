@@ -25,12 +25,12 @@
     "dist/jquery.unobtrusive-ajax.min.js"
   ],
   "dependencies": {
-    "jquery": ">=1.8",
-    "hoek": ">=4.2.1"
+    "hoek": ">=4.2.1",
+    "jquery": ">=1.8"
   },
   "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-cli": "1.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.3.0",
     "gulp-line-ending-corrector": "1.0.3",
     "gulp-rename": "1.2.2",
     "gulp-replace": "0.5.4",
