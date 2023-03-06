@@ -3,20 +3,20 @@
   <metadata>
     <id>Microsoft.jQuery.Unobtrusive.Ajax</id>
     <version>$version$</version>
-    <title>Microsoft jQuery Unobtrusive Ajax</title>
+    <title>Microsoft jQuery Unobtrusive Ajax (updated)</title>
     <authors>Microsoft</authors>
     <owners>Microsoft,aspnet</owners>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <licenseUrl>https://www.microsoft.com/web/webpi/eula/net_library_eula_ENU.htm</licenseUrl>
     <projectUrl>https://www.asp.net/</projectUrl>
     <iconUrl>https://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
-    <description>jQuery plugin that unobtrusively sets up jQuery Ajax.</description>
-    <summary>jQuery plugin that unobtrusively sets up jQuery Ajax.</summary>
+    <description>A variation of the jQuery plugin that unobtrusively sets up jQuery Ajax. Dependency versions were bumped up due to known security flaws.</description>
+    <summary>A variation of the jQuery plugin that unobtrusively sets up jQuery Ajax. Dependency versions were bumped up due to known security flaws.</summary>
     <releaseNotes>Please visit https://go.microsoft.com/fwlink/?LinkId=389866 to view the release notes.</releaseNotes>
     <copyright>© Microsoft Corporation. All rights reserved.</copyright>
     <tags>jQuery Unobtrusive Ajax</tags>
     <dependencies>
-      <dependency id="jQuery" version="1.8.0" />
+      <dependency id="jQuery" version="3.5.0" />
     </dependencies>
   </metadata>
     <files>

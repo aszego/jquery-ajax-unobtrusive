@@ -1,6 +1,6 @@
 {
   "name": "jquery-ajax-unobtrusive",
-  "version": "3.2.7",
+  "version": "3.2.6",
   "description": "Add-on to jQuery Ajax to enable unobtrusive options in data-* attributes",
   "main": "dist/jquery.unobtrusive-ajax.js",
   "repository": {
@@ -25,8 +25,8 @@
     "dist/jquery.unobtrusive-ajax.min.js"
   ],
   "dependencies": {
-    "hoek": ">=4.2.1",
-    "jquery": ">=1.8"
+    "hoek": ">=6.1.2",
+    "jquery": ">=3.5.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
