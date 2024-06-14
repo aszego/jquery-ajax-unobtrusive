@@ -29,8 +29,8 @@
     "jquery": ">=3.5.0"
   },
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-cli": "^2.3.0",
+    "gulp": "^5.0.0",
+    "gulp-cli": "^3.0.0",
     "gulp-line-ending-corrector": "1.0.3",
     "gulp-rename": "1.2.2",
     "gulp-replace": "0.5.4",
